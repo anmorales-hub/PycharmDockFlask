@@ -3,6 +3,7 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 
 #Postman Screenshot
 ![pycharm data query](screenshots/postman.jpg)
+
 #SQL Screenshot
 ![pycharm data query](screenshots/database result1.jpg)
 
