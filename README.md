@@ -7,6 +7,9 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 # SQL Screenshot
 ![pycharm data query](screenshots/database.jpg)
 
+#Bootstrap/HTML Screenshot
+![pycharm data query](screenshots/bootstrapFlask.jpg)
+
 # Readings
 * [What is an HTTP API?](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
 * [What is JSON?](https://www.w3schools.com/whatis/whatis_json.asp)
