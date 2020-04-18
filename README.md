@@ -8,7 +8,7 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 ![pycharm data query](screenshots/database.jpg)
 
 #Bootstrap/HTML Screenshot
-![pycharm data query](screenshots/bootstrapFlask.jpg)
+![pycharm data query](screenshots/bootstrapFlask.JPG)
 
 # Readings
 * [What is an HTTP API?](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
